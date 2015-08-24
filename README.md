@@ -4,6 +4,8 @@ Extended from Mike Bostock's original d3.sankey.
 
 [Demo](http://bl.ocks.org/emeeks/1dd092dadc02a93cdebc)
 
+`npm install d3-sankey-multipart`
+
 ```js
 var sankey = d3.sankey()
     .size([width, height])

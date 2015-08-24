@@ -1,0 +1,35 @@
+{
+  "name": "d3-sankey-multipart",
+  "version": "1.0.0",
+  "description": "A sankey diagram that also generates the drawing code necessary for multipart connections between nodes.",
+  "main": "index.js",
+  "keywords": [
+    "d3",
+    "layout",
+    "sankey",
+    "parallel edges"
+  ],
+  "directories": {
+    "examples": "examples"
+  },
+  "dependencies": {
+    "d3": "^3.5.6"
+  },
+  "devDependencies": {
+  },
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/emeeks/d3.sankey-multipart"
+  },
+  "author": {
+    "name": "Elijah Meeks",
+    "url": "http://www.elijahmeeks.com"
+  },
+  "license": "",
+  "bugs": {
+    "url": "https://github.com/emeeks/d3.sankey-multipart/issues"
+  },
+  "homepage": "https://github.com/emeeks/d3.sankey-multipart"
+}
